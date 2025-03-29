@@ -1,1 +1,21 @@
-{}
+{
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/award/[credentialId]/route": "app/api/award/[credentialId]/route.js",
+  "/api/trpc/[trpc]/route": "app/api/trpc/[trpc]/route.js",
+  "/api/sign/[achievementCredentialId]/route": "app/api/sign/[achievementCredentialId]/route.js",
+  "/page": "app/page.js",
+  "/issuers/new/page": "app/issuers/new/page.js",
+  "/issuers/page": "app/issuers/page.js",
+  "/api/achievements/route": "app/api/achievements/route.js",
+  "/api/issuers/route": "app/api/issuers/route.js",
+  "/issuers/[id]/credentials/[credentialId]/page": "app/issuers/[id]/credentials/[credentialId]/page.js",
+  "/issuers/[id]/page": "app/issuers/[id]/page.js",
+  "/issuers/[id]/settings/page": "app/issuers/[id]/settings/page.js",
+  "/issuers/[id]/credentials/new/page": "app/issuers/[id]/credentials/new/page.js",
+  "/issuers/[id]/credentials/new/criteria/page": "app/issuers/[id]/credentials/new/criteria/page.js",
+  "/issuers/[id]/credentials/new/preview/page": "app/issuers/[id]/credentials/new/preview/page.js",
+  "/issuers/[id]/credentials/new/extras/page": "app/issuers/[id]/credentials/new/extras/page.js",
+  "/issuers/[id]/credentials/[credentialId]/award/extras/page": "app/issuers/[id]/credentials/[credentialId]/award/extras/page.js",
+  "/issuers/[id]/credentials/[credentialId]/award/page": "app/issuers/[id]/credentials/[credentialId]/award/page.js"
+}
